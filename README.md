@@ -8,5 +8,5 @@ This Repository is for practicing PSS(Problem Solving Strategies)<br><br>
 -All Problems are come from BaekJoon online judge web site(https://www.acmicpc.net)<br>
 -Here is the list of code.<br><br>
 <p>
-         1. 2*n Tiling Problem(https://www.acmicpc.net/problem/11726)<br>
+         1. 2*n Tiling Problem(https://www.acmicpc.net/problem/11726)   FolderName <a>: 2nTiling </a><br>
     
